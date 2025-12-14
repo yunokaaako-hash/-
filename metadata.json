@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pink Cyberpunk Christmas",
+  "description": "A high-fidelity 3D interactive Christmas experience with particle systems, photo frames, and AI hand tracking controls.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
